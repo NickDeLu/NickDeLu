@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on my FINAL semester at Sheridan
 - 🌱 I’m currently learning IOS, Android, Big data, Cloud Systems, Computer Statistics
+- 🌍 Website: https://ndeluca.ca
 - 📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/nickdelu/">LinkedIn</a>
 - ⚡ Fun fact: I'm conversationally fluent in Chinese
 
