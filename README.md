@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&multiline=true&width=435&lines=Nick+De+Luca+Full+Stack+Developer;Welcome!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on my FINAL semester at Sheridan
-- 🌱 I’m currently learning IOS, Android, Big data, Cloud Systems, Computer Statistics
+- 🔭 I’m currently working on my Bachelor's Degree at McMaster University
+- 🌱 I’m currently leaning Advanced Web Programming, Calculus, Artificial Intelligence
 - 🌍 Website: https://ndeluca.ca
 - 📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/nickdelu/">LinkedIn</a>
 - ⚡ Fun fact: I'm conversationally fluent in Chinese
